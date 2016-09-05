@@ -23,8 +23,6 @@ The following is an excerpt taken directly from the "DoD Implementation Guide fo
 >
 > The PIV solution is implemented on the DoD CAC NG, but is largely separate and distinct from the DoD multi-application CAC. It will evolve at its own pace but in the same environment.
 >
->  
->
 > The purpose and function of the CAC NG is much broader than the focused interoperability function of the PIV. In 1999, Congress directed the Secretary of Defense to implement smart card technology within the DoD with the objective of increasing efficiency, security, and readiness. The result has been the creation of the CAC. The baseline functionality of the CAC is to (1) provide for logical access to computer systems, (2) provide personnel identification, (3) enable physical access to buildings, and (4) PKI for signing, encryption, and non-repudiation. The CAC is the standard identification card for active duty military personnel, Selected Reservists, DoD civilian employees, and eligible contractor personnel.
 >
 > The CAC NG is a multi-application smart card. It serves as a token for PK identity, email, and encryption certificates. Additionally, it contains a linear barcode, two-dimensional barcode, magnetic stripe, color digital photograph, and printed text.

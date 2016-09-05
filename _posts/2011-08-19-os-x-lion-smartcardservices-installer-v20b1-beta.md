@@ -1,5 +1,5 @@
 ---
-title: OS X Lion SmartCardServices  Installer v2.0b1 (beta)
+title: OS X Lion SmartCardServices Installer v2.0b1 (beta)
 slug: os-x-lion-smartcardservices-installer-v20b1-beta
 permalink: /post/os-x-lion-smartcardservices-installer-v20b1-beta
 date: 2011-08-19 10:29:25.994994-07
