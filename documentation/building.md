@@ -8,7 +8,7 @@ title: Building
 
 ## Installation
 
-This is an extract from the thread at <http://lists.macosforge.org/pipermail/smartcardservices-dev/2009-July/000017.html>
+This is an extract from the thread at <https://lists.macosforge.org/pipermail/smartcardservices-dev/2009-July/000017.html>
 
 `darwinbuild` must be run as root, but `darwinbuild` needs to access the internet so `http_proxy` must be defined if you are behind a firewall. The user defined `http_proxy` will not be used if you use `sudo`.
 
@@ -67,4 +67,4 @@ Install the generated package
 ## CACNG
 
 The CACNG TokenD is not yet available using darwinbuild.
-You can use the procedure described at <http://lists.macosforge.org/pipermail/tokend-dev/2011-June/000053.html> to rebuild it.
+You can use the procedure described at <https://lists.macosforge.org/pipermail/tokend-dev/2011-June/000053.html> to rebuild it.
