@@ -28,4 +28,4 @@ to something like:
 
 Reboot
 
-Source: <http://lists.apple.com/archives/apple-cdsa/2007/Nov/msg00009.html>
+Source: <https://lists.apple.com/archives/apple-cdsa/2007/Nov/msg00009.html>
