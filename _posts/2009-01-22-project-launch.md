@@ -1,7 +1,6 @@
 ---
 title: Project Launch!
 slug: project-launch
-permalink: /post/project-launch
 date: 2009-01-22 11:59:27.334254-08
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Installers for previous OS X Releases Updated/Reposted (v2.1.2)
 slug: installers-for-previous-os-x-releases-updatedreposted-v212
-permalink: /post/installers-for-previous-os-x-releases-updatedreposted-v212
 date: 2015-10-29 11:10:34.122602-07
 ---
 

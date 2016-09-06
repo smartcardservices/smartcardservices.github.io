@@ -1,7 +1,6 @@
 ---
 title: Installers Updated to v2.0.1 - Only JPKI.tokend affected
 slug: installers-updated-to-v201-only-jpkitokend-affected
-permalink: /post/installers-updated-to-v201-only-jpkitokend-affected
 date: 2014-01-23 10:53:52.147171-08
 ---
 

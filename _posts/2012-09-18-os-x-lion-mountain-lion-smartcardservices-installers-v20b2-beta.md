@@ -1,7 +1,6 @@
 ---
 title: OS X Lion & Mountain Lion SmartCardServices Installers v2.0.b2 (beta)
 slug: os-x-lion-mountain-lion-smartcardservices-installers-v20b2-beta
-permalink: /post/os-x-lion-mountain-lion-smartcardservices-installers-v20b2-beta
 date: 2012-09-18 00:35:36.080994-07
 ---
 

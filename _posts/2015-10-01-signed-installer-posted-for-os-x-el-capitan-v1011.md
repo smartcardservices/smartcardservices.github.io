@@ -1,7 +1,6 @@
 ---
 title: Signed Installer posted for OS X El Capitan v10.11
 slug: signed-installer-posted-for-os-x-el-capitan-v1011
-permalink: /post/signed-installer-posted-for-os-x-el-capitan-v1011
 date: 2015-10-01 07:30:08.35822-07
 ---
 

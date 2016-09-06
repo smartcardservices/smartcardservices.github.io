@@ -1,7 +1,6 @@
 ---
 title: SmartCardServices Installers for OS X 10.6 - 10.9 Posted!
 slug: smartcardservices-installers-for-os-x-106-109-posted
-permalink: /post/smartcardservices-installers-for-os-x-106-109-posted
 date: 2014-01-13 18:05:34.345544-08
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: CAC-NG Tokend (BETA v0.9) for Mac OS X 10.6
 slug: cac-ng-tokend-beta-v09-for-mac-os-x-106
-permalink: /post/cac-ng-tokend-beta-v09-for-mac-os-x-106
 date: 2010-03-08 06:31:42.10904-08
 ---
 

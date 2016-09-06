@@ -1,7 +1,6 @@
 ---
 title: \*\*UPDATED\*\* CAC-NG Tokend Installer Fixed
 slug: updated-cac-ng-tokend-installer-fixed
-permalink: /post/updated-cac-ng-tokend-installer-fixed
 date: 2010-01-26 12:05:57.577233-08
 ---
 

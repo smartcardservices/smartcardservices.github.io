@@ -1,7 +1,6 @@
 ---
 title: "BETA Tokend available: CAC-NG (Leopard Mac OS X 10.5.6+)"
 slug: beta-tokend-available-cac-ng-leopard-mac-os-x-1056
-permalink: /post/beta-tokend-available-cac-ng-leopard-mac-os-x-1056
 date: 2009-12-02 08:55:40.978052-08
 ---
 

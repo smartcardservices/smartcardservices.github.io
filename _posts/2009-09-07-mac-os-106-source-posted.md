@@ -1,7 +1,6 @@
 ---
 title: Mac OS 10.6 Source Posted!
 slug: mac-os-106-source-posted
-permalink: /post/mac-os-106-source-posted
 date: 2009-09-07 20:49:43.036152-07
 ---
 

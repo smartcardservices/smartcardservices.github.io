@@ -1,7 +1,6 @@
 ---
 title: Installer Posted for OS X Yosemite v10.10
 slug: installer-posted-for-os-x-yosemite-v1010
-permalink: /post/installer-posted-for-os-x-yosemite-v1010
 date: 2014-10-31 16:13:44.601868-07
 ---
 

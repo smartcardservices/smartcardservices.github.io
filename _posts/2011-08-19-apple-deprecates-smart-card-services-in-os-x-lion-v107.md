@@ -1,7 +1,6 @@
 ---
 title: Apple deprecates Smart Card Services in OS X Lion (v10.7)
 slug: apple-deprecates-smart-card-services-in-os-x-lion-v107
-permalink: /post/apple-deprecates-smart-card-services-in-os-x-lion-v107
 date: 2011-08-19 10:10:16.842476-07
 ---
 

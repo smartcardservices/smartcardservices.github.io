@@ -1,7 +1,6 @@
 ---
 title: "New Component: \"TokendPKCS11\" Posted"
 slug: new-component-tokendpkcs11-posted
-permalink: /post/new-component-tokendpkcs11-posted
 date: 2009-09-07 19:47:08.520913-07
 ---
 

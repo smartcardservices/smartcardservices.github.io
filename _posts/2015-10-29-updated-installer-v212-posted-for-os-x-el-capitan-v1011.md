@@ -1,7 +1,6 @@
 ---
 title: Updated Installer (v2.1.2) posted for OS X El Capitan v10.11
 slug: updated-installer-v212-posted-for-os-x-el-capitan-v1011
-permalink: /post/updated-installer-v212-posted-for-os-x-el-capitan-v1011
 date: 2015-10-29 11:06:53.531598-07
 ---
 

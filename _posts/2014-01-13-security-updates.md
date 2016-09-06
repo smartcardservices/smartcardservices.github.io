@@ -1,7 +1,6 @@
 ---
 title: Security Updates
 slug: security-updates
-permalink: /post/security-updates
 date: 2014-01-13 18:50:38.76185-08
 ---
 

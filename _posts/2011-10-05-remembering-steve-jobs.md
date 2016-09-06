@@ -1,7 +1,6 @@
 ---
 title: Remembering Steve Jobs
 slug: remembering-steve-jobs
-permalink: /post/remembering-steve-jobs
 date: 2011-10-05 20:16:56.766456-07
 ---
 

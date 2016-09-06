@@ -1,7 +1,6 @@
 ---
 title: "\"Current\" Static URLs to pull installers"
 slug: current-static-urls-to-pull-installers
-permalink: /post/current-static-urls-to-pull-installers
 date: 2014-10-31 16:57:16.276317-07
 ---
 
