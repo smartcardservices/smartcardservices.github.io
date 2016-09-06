@@ -9,8 +9,8 @@ Whenever there are security issues found with components managed under this proj
 ## Security Updates
 
 SCS Security Update ID | Platform Support | Release Date
------------------------|------------------|------------------
-SCSSU-201401           | 10.6-10.9        | Januaary 13, 2014
+-----------------------|------------------|-----------------
+SCSSU-201401           | 10.6&ndash;10.9  | January 13, 2014
 
 
 ## Security Updates
